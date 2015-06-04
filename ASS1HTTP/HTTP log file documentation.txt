@@ -19,7 +19,7 @@ The input to the program is the log file. On executing, two files are created.
 ALSO, A MENU IS PROVIDED TO DISPLAY SPECIFIC STATS.
 
 
-Language Used - C
+Language Used - Java
 
 The log file is scanned, and every record is parsed. All the fields are stored in a temporary structure. URL, BROWSER, OS, RESULT and BOT stats are updated by studying these fields. The fields of this temporary structure are written to the log file. This temporary structure is overwritten in the next iterations andthe process is continued till EOF is reached. The statistics are written to the summary file in descending order of count. A menu is displayed, which enables the user to view particular statistics. 
 
