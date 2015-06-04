@@ -1,0 +1,53 @@
+		   SIMPLE VERSION CONTROL
+                ------------------------------
+
+
+Problem Statement :
+-----------------------
+
+Create a simple version control program
+
+What is it ?
+--------------
+
+Simple Version control is an easy to use version control program which keeps track 
+of all the previous versions of a text file.File with latest version is opened for 
+performing operations(appending/deleting) and on commiting creates a new version(new file).
+Log file keeps track of each file and its version created.
+
+
+NOTE - 
+---------
+
+On Entering the file name,its latest version will be opened.If the file does not exist a new file will be created.
+To keep track of files we have created a log file which keeps track of all the versions.
+
+
+Usage -
+-----------
+
+Language Used :: C
+---------------
+
+Input to the program includes the file name to be opened.Program is  menu driven which gives option for appending and deleting.
+
+1) 'commit' -  Adds the changes in the current file abd creates a new version file.
+
+2) 'undo changes' - Changes made to the file are not saved.No new version is created.
+
+
+
+Implementation -
+---------------
+
+The program first initializes a structure which stores files present and their latest version using log file.
+User is provided with list of existing file using log file.User is also allowed to create a new file.
+Then the user is provided with menu where he can either choose to append or delete.Appending and deletion
+operation is done on a temporary file.For deletion line no to be deleted is asked from the user.If 
+user commits then a new version is created by renaming the temporary file. else if user undo's changes then
+the temporary file is deleted.
+
+
+Author -
+
+Group Name : ELITE FOUR

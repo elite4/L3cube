@@ -1,0 +1,43 @@
+		           Duplicate File 
+	       	  ---------------------
+
+Problem Statement:
+-----------------
+
+Write a program to list duplicate files from hard drive .
+
+
+Description:
+------------
+
+It is a program which displays all the duplicate files (files
+with same content, different names, different paths)in a given
+hard drive and allows the user to delete or ignore them.
+
+How to use( in Linux):
+---------------------
+Place the  filedup.c file in folder where you want to searchduplicate
+files. On  executing,  all the duplicate files (with their path) are
+listed. An option to delete is provided to the user. If user chooses
+to delete, he/she will have to enter the name of the file (as displayed 
+on the screen).
+
+
+Implementation -
+----------------
+
+Language Used - C and system command in Linux
+
+First we use a system command which lists all the files in the folder as 
+well as sub folder sorted according to its size in bytes.Instead of system 
+command we can also make use of dirent to list all files, get thier size 
+using stat and sort them according to size. We are comparing to files at 
+time. Firstly  we compare files for size,file having same size are compared
+for extension and finaly files with same extension are compared Byte wise
+to see if their content are same. This program finds duplicate files of any
+file format.  
+
+Author -
+--------
+Group Name : Elite Four
+

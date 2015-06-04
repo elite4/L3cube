@@ -1,0 +1,30 @@
+		Making sense out of HTTP log file 
+		
+Problem Statement:
+Download the HTTP log file and think of interesting ways of representing it.
+
+
+Description:
+
+An http log file is created and maintained by a server. It maintains a history of page requests. The details may include client IP address, request date/time, request method, page requested, protocol, result code, bytes served, referring url and user agent.
+
+
+Program Details:-
+
+The input to the program is the log file. On executing, two files are created.
+1) Summary File - Contains URL statistics, result statistics, browser statistics, OS statistics, bot statistics.
+
+2) Log file - Contains all the records in a readable format.
+
+ALSO, A MENU IS PROVIDED TO DISPLAY SPECIFIC STATS.
+
+
+Language Used - C
+
+The log file is scanned, and every record is parsed. All the fields are stored in a temporary structure. URL, BROWSER, OS, RESULT and BOT stats are updated by studying these fields. The fields of this temporary structure are written to the log file. This temporary structure is overwritten in the next iterations andthe process is continued till EOF is reached. The statistics are written to the summary file in descending order of count. A menu is displayed, which enables the user to view particular statistics. 
+
+
+Author -
+Group Name : Elite Four
+
+

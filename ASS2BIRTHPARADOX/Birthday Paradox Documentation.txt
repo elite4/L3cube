@@ -1,0 +1,34 @@
+		 BIRTHDAY PARADOX 
+		
+
+Problem Statement:-
+Write a code that verifies- birthday paradox is indeed correct.
+
+
+Program Description -
+
+It is a program that mathematically calculates the probablity of two people having the same birthday among 'n' different people.
+
+It then verifies this calculated probablity by actually carrying out trials and checks whether the mathematical probablity and actual probablity matches.  
+			
+
+Implementation -
+----------------
+
+Language Used - C++
+
+The code is divided into 3 modules:
+1) Calculating the probability for 'n' number of people.  n is input from user.
+   
+	Explaination: Finds out mathematical probablity using exponential functions.
+		
+2) Calculating the probability for the number of people varrying from 1 to 23.
+
+	Explaination: Finds out mathematical probablity considering each event as an independant event.
+
+3) Verifying the calculated probablity by actually generating random birthdates and checking for a common birthdate.
+	
+
+Author -
+Group Name : Elite Four
+

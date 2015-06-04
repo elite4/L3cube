@@ -1,0 +1,28 @@
+Duplicate Files
+
+
+1	./DSCN3418.JPG		./UntitledFolder1/DSCN3418.JPG
+2	./DSCN3419.JPG		./UntitledFolder2/DSCN3419.JPG		./UntitledFolder1/DSCN3419.JPG
+3	./referenc3.pdf		./UntitledFolder2/referenc3.pdf
+4	./UntitledFolder2/1.pdf		./UntitledFolder/eigen.pdf
+5	./anu.txt		./UntitledFolder2/anu1.txt		./UntitledFolder1/anu.txt
+6	./a.txt		./UntitledFolder1/a.txt
+7	./my.txt		./UntitledFolder1/my.txt
+8	./hamil.exe		./UntitledFolder1/hamil.exe
+9	./ITPM_Qbqnk.docx		./UntitledFolder1/ITPM_Qbqnk.docx
+10	./anu.c		./anu.c~
+11	./itham.o		./hamil.o
+12	./hamil.c		./UntitledFolder1/hamil.c
+13	./du.c~		./du.c		./UntitledFolder1/du.c		./UntitledFolder1/du.c~
+14	./du1.c		./UntitledFolder1/du1.c
+15	./z.txt		./UntitledFolder1/z.txt
+16	./ll.c~		./ll.c
+17	./n.txt		./UntitledFolder1/n.txt
+
+
+Do you Want to delete some files?(y/n)y
+
+Enter file name(with path)you want to delete :: du.c
+
+Do you want to delete some more files?(y/n)n
+anushree@anushree-Studio-1555:~/Desktop/myl3cube/testing$

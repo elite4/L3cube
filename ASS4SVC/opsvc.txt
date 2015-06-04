@@ -1,0 +1,110 @@
+anushree@anushree-Studio-1555:~/Desktop/myl3cube$ ./svc.out
+
+________________________________________________________________________________
+          SIMPLE VERSION CONTROL
+________________________________________________________________________________
+
+
+
+________________________________________________________________________________
+1.Display List Of Existing Files
+2.Create A New File
+3.Exit
+
+-----Enter Number For Your Option-----
+
+
+________________________________________________________________________________
+1
+
+1. File Name :: hello.txt		Latest Version :: 3
+
+2. File Name :: a1.txt		Latest Version :: 0
+
+3. File Name :: 1		Latest Version :: 0
+
+Enter File Name which you want to open for appending/deleting :: hello.txt
+
+_________hello_3.txt________
+
+
+1	hello
+___________________
+
+Your options
+1.Append
+2.Delete
+
+1
+
+Enter Line to be appended :: world
+
+File is succesfully appended
+
+Your options::
+1.Commit
+2.Undo changes1
+
+Version :: 4 Succesfully created!!
+
+
+
+________________________________________________________________________________
+1.Display List Of Existing Files
+2.Create A New File
+3.Exit
+
+-----Enter Number For Your Option-----
+
+
+________________________________________________________________________________
+1
+
+1. File Name :: hello.txt		Latest Version :: 4
+
+2. File Name :: a1.txt		Latest Version :: 0
+
+3. File Name :: 1		Latest Version :: 0
+
+Enter File Name which you want to open for appending/deleting :: hello.txt
+
+_________hello_4.txt________
+
+
+1	hello
+
+2	world
+___________________
+
+Your options
+1.Append
+2.Delete
+
+2
+
+Enter Line number to be deleted :: 2
+
+Line is succesfully deleted
+
+Your options::
+1.Commit
+2.Undo changes1
+
+Version :: 5 Succesfully created!!
+
+
+________________________________________________________________________________
+1.Display List Of Existing Files
+2.Create A New File
+3.Exit
+
+-----Enter Number For Your Option-----
+
+
+________________________________________________________________________________
+3
+
+Program is exiting....
+
+anushree@anushree-Studio-1555:~/Desktop/myl3cube$ 
+

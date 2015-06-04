@@ -1,0 +1,477 @@
+Select Choice
+1.Probablity by exponential method 
+2.Probablity by independant events method
+3.Experiment to verify above probablity
+4.Exit
+Enter choice 
+1
+Enter no of people 23
+
+Probablity of 2 people having birthday on the same day is  0.499525
+
+Select Choice
+1.Probablity by exponential method 
+2.Probablity by independant events method
+3.Experiment to verify above probablity
+4.Exit
+Enter choice 
+2
+
+Displaying probablities of 2 people having birthday on same day 
+	No of people	Probablity
+	1		0
+	2		0.00273222
+	3		0.00818181
+	4		0.0163115
+	5		0.0270622
+	6		0.0403537
+	7		0.0560855
+	8		0.0741386
+	9		0.094376
+	10		0.116645
+	11		0.140781
+	12		0.166604
+	13		0.193929
+	14		0.22256
+	15		0.252298
+	16		0.282941
+	17		0.314288
+	18		0.346138
+	19		0.378295
+	20		0.41057
+	21		0.442779
+	22		0.474751
+	23		0.506323
+
+Select Choice
+1.Probablity by exponential method 
+2.Probablity by independant events method
+3.Experiment to verify above probablity
+4.Exit
+Enter choice 
+3
+
+Generated dates are 
+251	8	18	175	18	237	103	297	281	312	224	232	340	45	143	110	119	241	336	328	41	121	94	
+Matching pairs are : 
+(18, 18)	
+No of matching pairs are: 1
+
+Generated dates are 
+3	90	174	220	86	349	13	95	358	22	237	168	164	232	29	96	147	99	78	138	74	123	39	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+184	1	280	278	87	321	33	181	324	247	113	303	91	220	316	186	337	96	182	139	261	172	168	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+115	320	268	193	216	100	74	255	284	75	169	196	163	248	229	102	330	110	340	267	201	194	342	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+145	165	72	85	62	91	258	355	330	336	15	157	186	115	356	199	33	65	2	353	228	250	216	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+89	338	84	63	240	43	15	216	312	305	46	32	1	262	48	356	226	18	129	142	328	244	132	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+161	277	321	287	22	308	295	238	31	267	80	94	265	247	233	115	194	172	286	350	298	306	32	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+46	166	174	176	66	260	54	198	55	90	154	100	112	96	29	109	251	54	189	103	320	71	336	
+Matching pairs are : 
+(54, 54)	
+No of matching pairs are: 1
+
+Generated dates are 
+193	23	267	113	7	199	53	163	245	344	337	55	44	231	234	1	44	324	155	144	194	9	297	
+Matching pairs are : 
+(44, 44)	
+No of matching pairs are: 1
+
+Generated dates are 
+303	260	351	251	363	305	80	91	133	227	358	4	234	191	182	155	195	160	250	8328	239	242	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+329	41	324	118	185	153	251	240	214	145	349	223	266	47	303	358	180	164	350	308	156	300	124	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+311	129	42	319	137	5	192	138	334	233	96	211	176	7	96	174	222	0	158	79	266	205	141	
+Matching pairs are : 
+(96, 96)	
+No of matching pairs are: 1
+
+Generated dates are 
+16	143	63	125	209	220	59	334	289	312	134	1	83	263	193	345	232	185	76	201	361	83	297	
+Matching pairs are : 
+(83, 83)	
+No of matching pairs are: 1
+
+Generated dates are 
+170	63	55	86	267	322	291	166	96	192	229	221	35	207	38	127	255	108	262	256	192	159	83	
+Matching pairs are : 
+(192, 192)	
+No of matching pairs are: 1
+
+Generated dates are 
+295	149	268	5	350	22	213	40	316	34	95	36	301	175	85	101	272	277	89	251	312	296	48	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+74	185	156	94	75	106	11	283	36	285	309	165	27	331	12	67	39	47	163	75	106	96	160	
+Matching pairs are : 
+(75, 75)	(106, 106)	
+No of matching pairs are: 2
+
+Generated dates are 
+332	126	71	55	12	142	351	184	340	295	340	192	128	205	327	45	241	246	113	40	274	202	177	
+Matching pairs are : 
+(340, 340)	
+No of matching pairs are: 1
+
+Generated dates are 
+99	242	224	20	317	88	117	236	54	243	65	109	13	207	219	197	305	148	296	131	276	135	217	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+80	134	97	193	174	129	29	109	229	271	91	7	347	180	124	341	234	126	40	102	139	6	321	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+95	311	227	149	201	137	284	176	341	52	273	168	350	161	322	94	148	351	185	155	332	123	38	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+307	358	164	106	218	61	112	173	280	181	34	63	140	295	105	316	29	157	348	321	266	143	277	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+118	49	263	61	204	353	185	0	295	301	288	159	153	350	271	84	22	86	242	86	351	295	191	
+Matching pairs are : 
+(295, 295)	(86, 86)	
+No of matching pairs are: 2
+
+Generated dates are 
+301	324	107	41	280	131	308	191	249	357	212	310	320	200	253	320	253	188	243	46	99	351	75	
+Matching pairs are : 
+(320, 320)	(253, 253)	
+No of matching pairs are: 2
+
+Generated dates are 
+183	131	285	59	217	270	355	167	330	71	32	5	351	163	314	301	170	305	147	238	259	105	126	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+338	358	72	215	162	172	324	237	113	89	157	297	65	61	286	356	25	357	22	155	101	309	103	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+36	237	166	307	109	60	47	359	156	39	66	5	326	362	87	197	109	176	354	164	365	174	84	
+Matching pairs are : 
+(109, 109)	
+No of matching pairs are: 1
+
+Generated dates are 
+355	323	200	135	112	59	78	339	95	315	140	36	183	324	207	176	114	5	0	243	331	362	330	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+162	230	264	275	28	264	207	237	253	288	195	23	35	254	225	132	107	175	272	267	358	230	109	
+Matching pairs are : 
+(230, 230)	(264, 264)	
+No of matching pairs are: 2
+
+Generated dates are 
+292	344	114	293	221	203	47	309	123	35	208	32	188	106	363	59	359	286	12	140	79	266	0	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+211	7	299	118	274	49	106	141	341	209	255	26	188	92	74	132	216	233	340	655	204	4	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+238	197	48	250	96	127	274	96	96	39	153	214	314	202	79	213	301	288	103	328	110	319	160	
+Matching pairs are : 
+(96, 96)	(96, 96)	(96, 96)	
+No of matching pairs are: 3
+
+Generated dates are 
+242	293	27	340	300	83	178	62	321	134	234	330	230	361	238	84	91	36	237	64	108	197	267	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+321	132	189	58	94	57	136	254	58	63	282	32	121	123	211	307	202	103	175	290	333	294	287	
+Matching pairs are : 
+(58, 58)	
+No of matching pairs are: 1
+
+Generated dates are 
+175	144	323	170	332	65	1	233	20	133	56	203	228	237	339	240	295	160	280	328	40	37	297	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+347	364	34	157	288	125	209	209	300	353	166	104	319	231	105	186	10	362	0	213	224	238	310	
+Matching pairs are : 
+(209, 209)	
+No of matching pairs are: 1
+
+Generated dates are 
+223	167	104	137	253	144	299	184	250	297	342	41	219	101	250	187	159	362	353	21	315	343	126	
+Matching pairs are : 
+(250, 250)	
+No of matching pairs are: 1
+
+Generated dates are 
+260	353	247	260	200	229	256	144	86	58	6	224	311	275	281	254	159	212	230	324	189	332	332	
+Matching pairs are : 
+(260, 260)	(332, 332)	
+No of matching pairs are: 2
+
+Generated dates are 
+10	249	328	364	271	36	341	155	296	328	36	314	286	266	205	188	352	21	194	334	90	227	249	
+Matching pairs are : 
+(249, 249)	(328, 328)	(36, 36)	
+No of matching pairs are: 3
+
+Generated dates are 
+344	144	219	333	226	43	299	193	53	182	279	175	211	315	274	1	3	360	37	318	38	303	281	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+226	48	302	179	16	150	164	266	253	309	243	220	169	286	153	120	98	93	34	31	305	349	64	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+64	111	182	101	63	221	163	102	81	211	38	18	227	312	183	251	199	250	129	53	53	173	330	
+Matching pairs are : 
+(53, 53)	
+No of matching pairs are: 1
+
+Generated dates are 
+174	271	58	332	61	121	315	125	185	184	307	44	247	286	207	349	2	52	145	144	38	92	327	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+289	291	211	176	103	23	350	67	321	13	249	287	74	128	360	323	71	179	23	116	184	309	323	
+Matching pairs are : 
+(23, 23)	(323, 323)	
+No of matching pairs are: 2
+
+Generated dates are 
+168	69	10	71	338	48	287	299	95	337	269	272	74	50	14	141	5	151	149	292	350	277	44	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+307	349	223	88	99	42	156	180	334	225	314	163	197	120	85	255	216	56	282	246	254	332	18	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+153	95	169	302	145	153	338	189	219	321	47	307	178	213	97	358	181	81	307	344	36	61	187	
+Matching pairs are : 
+(153, 153)	(307, 307)	
+No of matching pairs are: 2
+
+Generated dates are 
+49	35	1	331	39	255	55	57	167	150	227	227	295	138	199	119	357	278	290	57	90	137	154	
+Matching pairs are : 
+(57, 57)	(227, 227)	
+No of matching pairs are: 2
+
+Generated dates are 
+207	318	359	272	54	30	91	242	79	127	1	169	290	257	224	348	182	133	333	43	62	105	1	
+Matching pairs are : 
+(1, 1)	
+No of matching pairs are: 1
+
+Generated dates are 
+305	97	279	229	154	128	0	66	93	76	184	365	255	338	90	131	175	341	132	344	266	147	327	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+6	87	94	339	131	156	78	132	96	299	169	83	211	55	84	278	148	284	96	147	173	192	362	
+Matching pairs are : 
+(96, 96)	
+No of matching pairs are: 1
+
+Generated dates are 
+62	1	95	319	346	119	224	307	125	312	35	222	77	315	59	333	169	358	260	253	204	316	95	
+Matching pairs are : 
+(95, 95)	
+No of matching pairs are: 1
+
+Generated dates are 
+240	98	13	94	4	311	286	124	7	287	219	84	25	97	309	332	346	255	125	203	90	199	262	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+181	2	12	75	255	216	149	350	90	248	122	184	10	67	228	134	198	150	353	283	175	208	350	
+Matching pairs are : 
+(350, 350)	
+No of matching pairs are: 1
+
+Generated dates are 
+266	189	239	25	26	329	348	46	268	351	58	343	364	33	251	107	123	133	229	66	143	54	294	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+35	10	202	22	51	12	231	35	278	178	274	61	204	361	44	8	21	153	66	123	151	223	8	
+Matching pairs are : 
+(35, 35)	(8, 8)	
+No of matching pairs are: 2
+
+Generated dates are 
+258	105	265	245	295	42	57	223	201	68	184	347	119	196	212	279	232	148	311	51	352	65	219	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+118	86	6	309	209	282	166	217	174	271	116	178	200	282	235	182	117	303	0	99	181	320	69	
+Matching pairs are : 
+(282, 282)	
+No of matching pairs are: 1
+
+Generated dates are 
+94	310	218	163	119	328	228	97	205	315	227	148	282	143	72	134	76	344	8	254	302	49	123	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+242	166	185	0	23	124	78	217	342	146	193	139	266	155	2	363	118	75	224	266	357	126	339	
+Matching pairs are : 
+(266, 266)	
+No of matching pairs are: 1
+
+Generated dates are 
+249	202	75	258	214	135	307	337	136	231	280	136	255	38	339	230	14	119	57	154	19	336	280	
+Matching pairs are : 
+(136, 136)	(280, 280)	
+No of matching pairs are: 2
+
+Generated dates are 
+140	89	355	365	113	346	249	86	230	85	285	246	299	179	187	28	315	52	67	85	65	105	58	
+Matching pairs are : 
+(85, 85)	
+No of matching pairs are: 1
+
+Generated dates are 
+295	120	302	110	32	321	81	312	96	170	301	219	283	281	226	128	269	311	171	149	2	350	94	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+154	299	271	221	143	336	85	325	24	205	261	134	237	217	339	183	71	143	242	48	185	281	274	
+Matching pairs are : 
+(143, 143)	
+No of matching pairs are: 1
+
+Generated dates are 
+313	185	343	118	92	103	227	187	257	160	92	237	303	186	322	263	210	285	158	103	280	133	76	
+Matching pairs are : 
+(92, 92)	(103, 103)	
+No of matching pairs are: 2
+
+Generated dates are 
+97	328	344	97	10	163	12	284	234	197	19	110	290	122	337	111	138	256	327	9193	147	89	
+Matching pairs are : 
+(97, 97)	
+No of matching pairs are: 1
+
+Generated dates are 
+214	358	8	131	219	288	264	53	143	351	31	240	361	318	10	38	310	208	57	179	256	304	150	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+125	76	40	86	209	358	233	298	330	349	64	95	326	110	118	14	253	103	169	251	98	122	261	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+260	190	227	318	3	241	14	278	124	90	318	210	299	68	202	355	33	309	53	128	270	163	246	
+Matching pairs are : 
+(318, 318)	
+No of matching pairs are: 1
+
+Generated dates are 
+42	174	107	211	183	206	91	202	100	282	64	176	285	63	190	197	188	38	274	156	95	342	116	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Generated dates are 
+84	133	184	137	20	88	58	266	130	356	8	99	173	338	191	10	196	107	198	131	150	19	79	
+Matching pairs are : 
+
+No of matching pairs are: 0
+
+Probability is no of times matching pair found/ total no of trials
+Probability is 52/100
+Probability is 0.52
+
